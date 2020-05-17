@@ -1,0 +1,23 @@
+Programmers: Seyedali Amid, Mervin Wilfred D'Souza
+
+Note: We tried to use DOM and SAX in this assignment. However, with a little hint of our trainer, Mr.Felix Schmidt, we looked
+      into the XMLEvent Methods (https://docs.oracle.com/en/java/javase/11/docs/api/java.xml/javax/xml/stream/events/XMLEvent.html).
+      Therefore, we decided to use StAX in this assignment to parse the XML files.
+
+the following are used in this Program:
+
+1- Java SE Development Kit 14.0.1: https://www.oracle.com/java/technologies/javase-jdk14-downloads.html
+
+2- gradle version 6.4.1: https://gradle.org/releases/
+
+3- git version 2.26.2: https://git-scm.com/download/win
+
+4- IntelliJ IDEA Community Edition: https://www.jetbrains.com/idea/download/#section=windows
+
+5- StAX API: https://docs.oracle.com/javase/tutorial/jaxp/stax/api.html
+
+6- read the tutorial on "https://www.baeldung.com/java-stax" to know how to start with StAX API.
+
+Note: All the process in this program is based on the Programmers' thoughts and Ideas.
+
+
