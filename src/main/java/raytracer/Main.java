@@ -2,7 +2,7 @@ package raytracer;
 
 public class Main {
     public static void main(String [] args) throws Exception {
-        String file = "./resources/test1.x3d"; // path to foo.xml
+        String file = "./resources/test1.x3d"; // path to test1.x3d
 
         // Please create a new instance of XMLParser and pass the file into it.
         // then call the parse() method of the instance to see the XML file data on the terminal.
