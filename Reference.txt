@@ -1,5 +1,7 @@
 Programmers: Seyedali Amid, Mervin Wilfred D'Souza
 
+MSc in Digital Engineering
+
 Note: We tried to use DOM and SAX in this assignment. However, with a little hint of our trainer, Mr.Felix Schmidt, we looked
       into the XMLEvent Methods (https://docs.oracle.com/en/java/javase/11/docs/api/java.xml/javax/xml/stream/events/XMLEvent.html).
       Therefore, we decided to use StAX in this assignment to parse the XML files.
